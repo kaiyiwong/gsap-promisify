@@ -12,7 +12,7 @@
   "dependencies": {},
   "devDependencies": {
     "bluebird": "^3.5.1",
-    "browserify": "^9.0.3",
+    "browserify": "^17.0.0",
     "eslint": "^4.19.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
@@ -24,7 +24,7 @@
     "prettier": "^1.11.1",
     "smokestack": "^3.2.1",
     "tap-closer": "1.0.0",
-    "tape": "^3.5.0"
+    "tape": "^5.6.1"
   },
   "lint-staged": {
     "**/*.{js,jsx,json,css}": [
